@@ -5,3 +5,5 @@
 [![Medium Badge](https://img.shields.io/badge/-@davherrera-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@davherrera/)](https://medium.com/@davherrera)
 [![Gmail Badge](https://img.shields.io/badge/-dav.herrerav@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dav.herrerav@gmail.com)](mailto:dav.herrerav@gmail.com)
 [![dev.to Badge](https://img.shields.io/badge/-daaherrera-000000?style=flat-square&logo=dev.to&link=https://dev.to/daaherrera/)](https://dev.to/daaherrera/)
+[![stackoverflow Badge](https://img.shields.io/badge/-@dav-6a737c?style=flat-square&labelColor=cccccc&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/1212129/dav)](https://stackoverflow.com/users/1212129/dav)
+
